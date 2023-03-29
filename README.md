@@ -1,5 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou a Karina Okabayashi!</h1>
-<h3 align="center">Graduada em Marketing e uma QA em formação pela Faculdade Capital Federal, aplicando as melhores práticas de teste de software do mercado. Agregando todo o conhecimento adquirido nessa nova jornada da Qualidade.</h3>
+<h3 align="center">Analista de Qualidade de Software funcional estudando automação.
+
+Testes de layout (inspeção de elementos).
+Documentação de evidências de testes, reporte e detalhamento de erros para as equipes de desenvolvimento.
+Acompanhamento de homologação junto aos usuários e áreas de negócio.
+Escrita Gherkin, escrita de cenários de testes (fluxo principal, alternativos e exceções).
+Testes funcionais em aplicações Web e Mobile, técnicas de testes (Caixa branca e Caixa preta).
+Testes de API com Postman.
+Azure DevOps para testes manuais e metodologia ágil SCRUM, BDD.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
